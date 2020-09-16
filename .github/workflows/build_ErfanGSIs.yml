@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL1: http://bigota.d.miui.com/20.9.15/miui_GRUS_20.9.15_888a32bdba_10.0.zip
+  ROM_URL1: http://bigota.d.miui.com/20.9.3/miui_MI8Lite_20.9.3_58614b0cce_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
